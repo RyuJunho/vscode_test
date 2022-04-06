@@ -3,4 +3,4 @@ from sys import stdin
 input = lambda: stdin.readline().strip()
 
 
-print(1)
+print('수정')
